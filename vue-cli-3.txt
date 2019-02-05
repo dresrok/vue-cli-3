@@ -7,3 +7,7 @@ And install the new cli
 > vue create myapp
 > default (babel, eslint)
 > Use yarn
+
+# Dev Server
+> yarn serve
+> yarn lint
