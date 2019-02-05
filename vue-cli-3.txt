@@ -1,2 +1,9 @@
-Create project
+We need to uninstall the old version of the cli
+> npm uninstall -g vue-cli
+And install the new cli
+> npm i -g @vue/cli
+
+# Create project
 > vue create myapp
+> default (babel, eslint)
+> Use yarn
