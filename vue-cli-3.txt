@@ -28,3 +28,6 @@ And install the new cli
 > firebase use --add paleox-vue-cli-3
 > yarn build
 > firebase deploy --only hosting
+
+# Instant Prototyping
+> vue serve fileName.vue
