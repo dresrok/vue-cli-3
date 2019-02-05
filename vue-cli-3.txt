@@ -18,3 +18,13 @@ And install the new cli
 
 # Plugins
 > vue add vuetify
+
+# Build & Deploy to Firebase
+> firebase login
+> firebase init
+  create a project
+  dist
+  y
+> firebase use --add paleox-vue-cli-3
+> yarn build
+> firebase deploy --only hosting
