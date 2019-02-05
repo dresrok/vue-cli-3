@@ -31,3 +31,6 @@ And install the new cli
 
 # Instant Prototyping
 > vue serve fileName.vue
+
+# The Vue GUI (part 1)
+> vue ui
