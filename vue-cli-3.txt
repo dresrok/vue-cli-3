@@ -34,3 +34,7 @@ And install the new cli
 
 # The Vue GUI (part 1)
 > vue ui
+
+# Using "vue init" with the new CLI
+> npm i -g @vue/cli-init
+> vue init webpack-simple myapp
