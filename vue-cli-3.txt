@@ -15,3 +15,6 @@ And install the new cli
 # Custom Presets
 > vue create myapp
 > Manually select features
+
+# Plugins
+> vue add vuetify
