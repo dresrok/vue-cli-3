@@ -11,3 +11,7 @@ And install the new cli
 # Dev Server
 > yarn serve
 > yarn lint
+
+# Custom Presets
+> vue create myapp
+> Manually select features
